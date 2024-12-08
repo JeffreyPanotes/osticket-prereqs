@@ -26,8 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install the OS Ticket requirements
 - Install OS Ticket framework
 - After Installation configuration of OS ticket
-- Use/Explore OS ticket as a Help Desk Professional
-- Create,Interact,and close Tickets in Azure
+
 
 <h2>Installation Steps</h2>
 <br />
