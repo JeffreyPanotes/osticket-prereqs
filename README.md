@@ -210,7 +210,7 @@ open the downloads folder.
 <img src="https://i.imgur.com/5u6ZtUr.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-You will have a zipped folder named osticke-installation-files
+You will have a zipped folder named osticket-installation-files
 </p>
 
 <br />
@@ -218,7 +218,7 @@ You will have a zipped folder named osticke-installation-files
 <img src="https://i.imgur.com/KDDhdev.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-  take that folder and drag to your destop.
+take that folder and drag to your destop.
 
 </p>
 <br />
@@ -246,7 +246,7 @@ Now the file folder should have opened and osticket -installation files should b
 <img src="https://i.imgur.com/CwPxgr2.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Fromthis point to check IIS type in 127.0.0.1 and you will notice there is an error. 
+From this point to check IIS type in (http://127.0.0.1/) and you will notice there is an error.To correct this we still need to download and turn on features in windows.
 </p>
 <br />
 </p>
@@ -255,21 +255,21 @@ Fromthis point to check IIS type in 127.0.0.1 and you will notice there is an er
 <img src="https://i.imgur.com/6g9OXqV.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open your control panel and go to programs and use unistall progams as this is what we will use to enable features.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/KKxsx8n.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the left hand side use turn windows features on or off
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/o4NQfmy.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This pop up window will appear
 </p>
 <br />
 <p>
