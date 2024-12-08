@@ -269,14 +269,14 @@ On the left hand side use turn windows features on or off
 <img src="https://i.imgur.com/o4NQfmy.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-This pop up window will appear
+This pop up window will appear,You will want to expand Internet Information Services.Then WorldWide Web Services and lastly Application Development Features.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/eCjM09c.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.te velit esse cillum dolore eu fugiat nulla pariatur.
+You will want to expand Internet Information Services.Then WorldWide Web Services
 </p>
 <br />
 </p>
