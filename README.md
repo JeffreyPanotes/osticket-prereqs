@@ -34,56 +34,54 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DDvOvXg.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+First before you begin you will need access to AZURE.Once this is done login in and on the main page click under Azure services press on Vitrual Machines to start creating.
 
 <p>
 <img src="https://i.imgur.com/1buw2L4.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once in Virtual machines click on the create tab.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/iqWrzSI.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once done a menu will pop up and now you will click on the top selection for Azure virtual machine.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/Z5n0hFZ.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.te velit esse cillum dolore eu fugiat nulla pariatur.
+This will open a new  menu where you will create a Virtual machine.On the subscription tab this should be filled out with ethier payas you go or your free trial.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/azpIEqA.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next click on resource group and create a new group called osticket and press OK.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/XmGojFy.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the next tab  under virtual machine name the machine osticket-vm
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/iAqzVV3.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Select the image and use windows 10
 <br />
 <p>
 <img src="https://i.imgur.com/9cjmLil.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.te velit esse cillum dolore eu fugiat nulla pariatur.
+When you scroll down on the left you will see size.For this lab please use something with 2 or more vcpu.
 </p>
 <br />
 </p>
@@ -92,32 +90,36 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/gVa6WIS.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once done create a User name and password.and scroll down to next part.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/ZFS5SRe.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Please note that some selections are already filled out and you do not need to change them.
+Once here please select or check the box and hit next.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/xh71vBe.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+select next for Networking..
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/9MUqBV4.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.te velit esse cillum dolore eu fugiat nulla pariatur.
+Once here you will notice that the Virtual network and subnet are filled out .
 </p>
 <br />
+
 </p>
+<img src="https://i.imgur.com/vFXW3ks.png" height="80%" width="80%" alt=" Steps"/>
 <br />
+next select review and create 
 <p>
 <img src="https://i.imgur.com/CveUVHr.png" height="80%" width="80%" alt=" Steps"/>
 </p>
