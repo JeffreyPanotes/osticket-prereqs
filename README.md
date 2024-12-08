@@ -276,7 +276,7 @@ This pop up window will appear,You will want to expand Internet Information Serv
 <img src="https://i.imgur.com/eCjM09c.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-You will want to expand Internet Information Services.Then WorldWide Web Services
+Once application Development Features is expanded look for CGI. 
 </p>
 <br />
 </p>
@@ -285,7 +285,7 @@ You will want to expand Internet Information Services.Then WorldWide Web Service
 <img src="https://i.imgur.com/hMFqdpd.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now select CGI and press OK.
 </p>
 <br />
 <p>
